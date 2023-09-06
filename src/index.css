@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Inter'; /* You can give any name to your font family */
+    src: url('../public/fonts/InterTight-VariableFont_wght.ttf') format('truetype');
+  }
+  
+  /* Set the default font family to your custom font */
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+  
