@@ -25,7 +25,7 @@ This project in a clone of the AirBnB online experiences page that was developed
 Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
-- See the badge displayed on the card to idetify whether an experience is online, sold out or none.
+- See the badge displayed on the card to identify whether an experience is online, sold out or none.
 - Obtain information about each experience, such as descriptions, pricing, and location
 
 ### Screenshot
