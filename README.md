@@ -13,7 +13,7 @@ This project in a clone of the AirBnB online experiences page that was developed
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
-    - [Useful resources](#useful-resources)
+    - [Continued Development](#continued-development)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
@@ -54,10 +54,10 @@ Users should be able to:
 - The concept of props, 
 - Creating components from an array
 - Using the .map() function to iterate over an array of data in a database and creating a new array that will be displayed on the browser
-- The spread operator in js.
+- The spread operator in js
 - Understanding and getting familiar with the different tailwind classes
-- Applying the mobile first approrach with tailwind
-- And so much more
+- Applying the mobile first approrach with tailwind css
+- And so much more...
 
 
 #### These are some snippets I am proud of
@@ -96,14 +96,14 @@ Users should be able to:
   })
 ```
 
-### Useful resources
+### Continued Development
 
-- [Example resource 1](https://www.stackoverflow.com)
+In future iterations of my journey with learning react, I plan to:
 
-- [Example resource 2](https://www.w3schools.com)
-
-
-
+- Event Listeners In React
+- Concept of State and Stateless
+- Form Handling
+- Side Effects in react
 
 ## Author
 
@@ -112,4 +112,4 @@ Users should be able to:
 
 
 ## Acknowledgments
-ME and @Bobzirroll from Srcimba Community
+ME and Bob ziroll from Srcimba Community
