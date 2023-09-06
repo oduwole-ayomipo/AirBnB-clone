@@ -98,7 +98,7 @@ Users should be able to:
 
 ### Continued Development
 
-In future iterations of my journey with learning react, I plan to:
+In future iterations of my journey on coding with react, I plan to learn:
 
 - Event Listeners In React
 - Concept of State and Stateless
