@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/oduwole-ayomipo/airbnb-clone/airbnbclone)
+![](https://github.com/oduwole-ayomipo/AirBnB-clone/blob/main/airbnbclone.png)
 
 
 ### Links
@@ -60,7 +60,7 @@ Users should be able to:
 - And so much more
 
 
-- These are some snippets I am proud of
+#### These are some snippets I am proud of
 
 
 ```js
