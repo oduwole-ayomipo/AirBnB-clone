@@ -1,6 +1,6 @@
 # AirBnB Online Exerience Clone Project
 
-This project in a clone of the AirBnB online experiences page that was developed using create react app. Here, three component was rendered (Navbar, Hero and the Card component) which were styled using tailwind css.
+This project is a clone of the AirBnB online experiences page that was developed using create react app. Here, three component was rendered (Navbar, Hero and the Card component) which were styled using tailwind css.
 
 ## Table of contents
 
@@ -42,7 +42,6 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
 - JavaScript
 - React Library
 - Tailwind CSS
