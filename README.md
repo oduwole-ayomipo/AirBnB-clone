@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/oduwole-ayomipo/airbnb-clone)
-- [Live Site URL](https://airbnbclone.netlify.app/)
+
 
 ## My process
 
